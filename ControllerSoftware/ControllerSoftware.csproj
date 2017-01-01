@@ -35,7 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CSkin">
-      <HintPath>..\..\..\share\C#工具\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+      <HintPath>dll\CSkin.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
       <HintPath>dll\log4net.dll</HintPath>

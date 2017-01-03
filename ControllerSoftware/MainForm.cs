@@ -30,13 +30,18 @@ namespace ControllerSoftware
             setupForm.ShowDialog();
         }
 
+        KeyPadOnScreen softKeyPad = new KeyPadOnScreen();
         private void calibButton_Click(object sender, EventArgs e)
         {
+            CalibrationForm calibForm = new CalibrationForm();
+            calibForm.ShowDialog();
 
         }
 
         private void historyDataViewButton_Click(object sender, EventArgs e)
         {
+            HistoryDataViewForm historyDataView = new HistoryDataViewForm();
+            historyDataView.ShowDialog();
 
         }
 

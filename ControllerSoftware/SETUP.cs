@@ -33,5 +33,10 @@ namespace ControllerSoftware
             setEnglishButton.BaseColor = Color.FromArgb(9, 163, 220);
             setChineseButton.BaseColor = Color.Gray;
         }
+
+        private void formCloseButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

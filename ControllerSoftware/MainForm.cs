@@ -16,5 +16,68 @@ namespace ControllerSoftware
         {
             InitializeComponent();
         }
+
+
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void setupButton_Click(object sender, EventArgs e)
+        {
+            SetupForm setupForm = new SetupForm();
+            setupForm.ShowDialog();
+        }
+
+        private void calibButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void historyDataViewButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void diagnosisButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataExportButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void productNameLable_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void upperLimitValueLable_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lowerLimitValueLable_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void autoManulSwitchButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void setPumbOnButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void setPumbOffButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

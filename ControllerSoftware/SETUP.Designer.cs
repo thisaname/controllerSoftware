@@ -151,7 +151,7 @@
             this.setPumbOffTimeButton.NormlBack = null;
             this.setPumbOffTimeButton.Size = new System.Drawing.Size(174, 80);
             this.setPumbOffTimeButton.TabIndex = 8;
-            this.setPumbOffTimeButton.Text = "OFF Time Max";
+            this.setPumbOffTimeButton.Text = "Set OFF Alarm";
             this.setPumbOffTimeButton.UseVisualStyleBackColor = false;
             // 
             // setPumbOnTimeButton
@@ -167,7 +167,7 @@
             this.setPumbOnTimeButton.NormlBack = null;
             this.setPumbOnTimeButton.Size = new System.Drawing.Size(174, 80);
             this.setPumbOnTimeButton.TabIndex = 7;
-            this.setPumbOnTimeButton.Text = "ON Time Max";
+            this.setPumbOnTimeButton.Text = "Set On Alarm";
             this.setPumbOnTimeButton.UseVisualStyleBackColor = false;
             // 
             // chartSettingGroupBox
@@ -203,7 +203,7 @@
             this.setChartViewRangeButton.NormlBack = null;
             this.setChartViewRangeButton.Size = new System.Drawing.Size(174, 80);
             this.setChartViewRangeButton.TabIndex = 7;
-            this.setChartViewRangeButton.Text = "View Range";
+            this.setChartViewRangeButton.Text = "Set View Range";
             this.setChartViewRangeButton.UseVisualStyleBackColor = false;
             // 
             // formCloseButton
@@ -272,7 +272,7 @@
             this.setChemicalNameButton.NormlBack = null;
             this.setChemicalNameButton.Size = new System.Drawing.Size(174, 80);
             this.setChemicalNameButton.TabIndex = 7;
-            this.setChemicalNameButton.Text = "Chemical Name";
+            this.setChemicalNameButton.Text = "Set Chemical Name";
             this.setChemicalNameButton.UseVisualStyleBackColor = false;
             // 
             // setRatioButton
@@ -288,7 +288,7 @@
             this.setRatioButton.NormlBack = null;
             this.setRatioButton.Size = new System.Drawing.Size(174, 80);
             this.setRatioButton.TabIndex = 8;
-            this.setRatioButton.Text = "Ratio";
+            this.setRatioButton.Text = "Set Ratio";
             this.setRatioButton.UseVisualStyleBackColor = false;
             // 
             // setUnitButton
@@ -304,7 +304,7 @@
             this.setUnitButton.NormlBack = null;
             this.setUnitButton.Size = new System.Drawing.Size(174, 80);
             this.setUnitButton.TabIndex = 9;
-            this.setUnitButton.Text = "Unit";
+            this.setUnitButton.Text = "Set Unit";
             this.setUnitButton.UseVisualStyleBackColor = false;
             // 
             // chemicalSettingGroupBox
